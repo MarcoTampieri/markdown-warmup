@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Markdown-warmup
 
 * Wich website did you find ?
@@ -26,7 +27,11 @@
 4. Alexandre
 5. Carlo
 6. Gabriela
+<<<<<<< HEAD
 
 ### Add a recommandation of a futur change
 
 - [x] The page needs a complete change :boom: * Gabriela *
+=======
+=======
+>>>>>>> ec297f27809217af33cc723b75680129f8e02d5c
