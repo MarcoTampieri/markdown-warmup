@@ -1,18 +1,19 @@
 # Markdown-warmup
 
-* Quel site Web avez-vous trouvé? (nom, URL, lien)
+* Wich website did you find ? (name, url, link )
 
-* Est-il mis à jour fréquemment?
+* Is it updated frequently ?
 
-* Comment avez-vous trouvé ?
+* How did you find it ?
 
-* Pourquoi ce site a-t-il besoin de mises à jour ou d'un remake?
+* Why this website needs updates or a remake ?
 
-* Ce site est-il présent sur les réseaux sociaux?
+* Is this website present on social networks ?
 
-* Faites une liste des recomandations des changements futurs
+* Make a list of recomandations of futur changes
 
-* Par groupe, présentez votre démarque et le site internet
+* By group, present your markdown and the website
+
 
 ## Group members
 
