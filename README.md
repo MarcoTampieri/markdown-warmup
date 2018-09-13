@@ -31,5 +31,5 @@
 
 ### Add a recommandation of a futur change
 
-- [x] The page needs a complete change :boom: * Gabriela *
+- [x] The page needs a complete change :boom: *Gabriela*
 
