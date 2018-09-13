@@ -1,6 +1,9 @@
 # Markdown-warmup
 
-* Wich website did you find ? (name, url, link )
+* Wich website did you find ?
+
+It's a website from some student from yale for random artist.(http://art.yale.edu/) -automatic!
+
 
 * Is it updated frequently ?
 
