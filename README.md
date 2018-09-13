@@ -13,3 +13,12 @@
 * Faites une liste des recomandations des changements futurs
 
 * Par groupe, présentez votre démarque et le site internet
+
+## Group members
+
+1. Lyioh
+2. Matthieu
+3. Somaya
+4. Alexandre
+5. Carlo
+6. Gabriela
