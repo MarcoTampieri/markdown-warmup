@@ -26,3 +26,7 @@
 4. Alexandre
 5. Carlo
 6. Gabriela
+
+### Add a recommandation of a futur change
+
+- [x] The page needs a complete change :boom: * Gabriela *
