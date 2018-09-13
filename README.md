@@ -25,5 +25,8 @@ Yes it is.
 - Soumaya
 - Lyonel
 - Marco
+- Alex
+- Gabriela
+- Matthieu
 
 
