@@ -16,7 +16,7 @@
 
 * Make a list of recomandations of futur changes
 
- 1. The page needs a complete change :boom: *Gabriela*
+  1. The page needs a complete change :boom: *Gabriela*
 
 * By group, present your markdown and the website
 
