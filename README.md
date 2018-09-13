@@ -1,7 +1,7 @@
 # markdown-warmup
 
 
-* ###Wich website did you find ? (name, url, link )###
+* Wich website did you find ? (name, url, link )
     
 	It's a website from some student from yale for random artist.
 	http://art.yale.edu/ - automatic!
