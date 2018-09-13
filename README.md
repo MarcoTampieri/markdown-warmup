@@ -1,15 +1,15 @@
 # Markdown-warmup
 
-*Quel site Web avez-vous trouvé? (nom, URL, lien)
+* Quel site Web avez-vous trouvé? (nom, URL, lien)
 
-*Est-il mis à jour fréquemment?
+* Est-il mis à jour fréquemment?
 
-*Comment avez-vous trouvé ?
+* Comment avez-vous trouvé ?
 
-*Pourquoi ce site a-t-il besoin de mises à jour ou d'un remake?
+* Pourquoi ce site a-t-il besoin de mises à jour ou d'un remake?
 
-*Ce site est-il présent sur les réseaux sociaux?
+* Ce site est-il présent sur les réseaux sociaux?
 
-*Faites une liste des recomandations des changements futurs
+* Faites une liste des recomandations des changements futurs
 
-*Par groupe, présentez votre démarque et le site internet
+* Par groupe, présentez votre démarque et le site internet
